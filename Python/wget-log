@@ -1,0 +1,17 @@
+--2019-03-30 19:29:19--  https://docs.google.com/uc?id=0B3X9GlR6EmbnWksyTEtCM0VfaFE
+Resolving docs.google.com (docs.google.com)... 172.217.2.238, 2607:f8b0:4000:814::200e
+Connecting to docs.google.com (docs.google.com)|172.217.2.238|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://doc-0c-48-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/rhrpnv90o350i0fj5ascfihr3u48qcg1/1553990400000/15876260727594163214/*/0B3X9GlR6EmbnWksyTEtCM0VfaFE [following]
+Warning: wildcards not supported in HTTP.
+--2019-03-30 19:29:20--  https://doc-0c-48-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/rhrpnv90o350i0fj5ascfihr3u48qcg1/1553990400000/15876260727594163214/*/0B3X9GlR6EmbnWksyTEtCM0VfaFE
+Resolving doc-0c-48-docs.googleusercontent.com (doc-0c-48-docs.googleusercontent.com)... 216.58.193.129, 2607:f8b0:4000:808::2001
+Connecting to doc-0c-48-docs.googleusercontent.com (doc-0c-48-docs.googleusercontent.com)|216.58.193.129|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-executable]
+Saving to: ‘uc?id=0B3X9GlR6EmbnWksyTEtCM0VfaFE’
+
+          uc?id=0B3     [<=>                 ]       0  --.-KB/s                        uc?id=0B3X     [ <=>                ] 554.51K  2.70MB/s                       uc?id=0B3X9     [  <=>               ]   1.15M  2.84MB/s                      uc?id=0B3X9G     [   <=>              ]   1.71M  2.81MB/s                     uc?id=0B3X9Gl     [    <=>             ]   2.69M  3.32MB/s                    uc?id=0B3X9GlR     [     <=>            ]   3.83M  3.78MB/s                   uc?id=0B3X9GlR6     [      <=>           ]   5.16M  4.25MB/s                  uc?id=0B3X9GlR6E     [       <=>          ]   6.93M  4.89MB/s               uc?id=0B3X9GlR6Embn     [        <=>         ]   7.42M  5.04MB/s    in 1.5s    
+
+2019-03-30 19:29:22 (5.04 MB/s) - ‘uc?id=0B3X9GlR6EmbnWksyTEtCM0VfaFE’ saved [7785024]
+
